@@ -19,7 +19,6 @@
     "cookie-parser": "^1.4.6"
   },
   "devDependencies": {
-    "bcrypt": "^5.0.1",
-    "cookie-parser": "^1.4.6"
+    "bcrypt": "^5.0.1"
   }
 }
